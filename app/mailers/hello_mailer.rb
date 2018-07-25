@@ -1,0 +1,2 @@
+class HelloMailer < ApplicationMailer
+end
